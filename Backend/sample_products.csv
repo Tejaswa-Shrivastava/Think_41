@@ -1,0 +1,21 @@
+name,category,price,description,brand,sku,stock_quantity,rating
+"iPhone 15 Pro","Electronics",999.99,"Latest iPhone with A17 Pro chip and titanium design","Apple","APL-IP15P-256",50,4.8
+"Samsung Galaxy S24 Ultra","Electronics",1199.99,"Premium Android smartphone with S Pen and advanced cameras","Samsung","SAM-GS24U-512",35,4.7
+"MacBook Air M3","Electronics",1299.99,"Ultra-thin laptop with M3 chip and all-day battery","Apple","APL-MBA-M3-512",25,4.9
+"Dell XPS 13","Electronics",1099.99,"Compact Windows laptop with InfinityEdge display","Dell","DEL-XPS13-512",30,4.6
+"AirPods Pro","Electronics",249.99,"Wireless earbuds with active noise cancellation","Apple","APL-APP-USB",100,4.5
+"Sony WH-1000XM5","Electronics",399.99,"Premium noise-canceling over-ear headphones","Sony","SNY-WH1000XM5",60,4.7
+"iPad Pro 12.9","Electronics",1099.99,"Powerful tablet with M2 chip and Liquid Retina display","Apple","APL-IPADPRO-1TB",40,4.8
+"Nintendo Switch OLED","Electronics",349.99,"Gaming console with vibrant OLED screen","Nintendo","NIN-SWOLED-64",80,4.6
+"Instant Pot Duo 7-in-1","Kitchen",89.99,"Multi-use pressure cooker with 7 functions","Instant Pot","IP-DUO-6QT",120,4.4
+"KitchenAid Stand Mixer","Kitchen",379.99,"Professional 5-quart stand mixer","KitchenAid","KA-K5SS-5QT",45,4.8
+"Dyson V15 Detect","Home & Garden",749.99,"Cordless vacuum with laser dust detection","Dyson","DYS-V15-DETECT",35,4.6
+"Roomba j7+","Home & Garden",799.99,"Smart robot vacuum with automatic dirt disposal","iRobot","IRB-J7PLUS",50,4.3
+"Ninja Foodi Indoor Grill","Kitchen",199.99,"Indoor grill and air fryer combo","Ninja","NIN-IG601",75,4.2
+"Breville Barista Express","Kitchen",699.99,"Espresso machine with built-in grinder","Breville","BRV-BES870XL",20,4.7
+"Adidas Ultraboost 22","Shoes",180.00,"Premium running shoes with Boost cushioning","Adidas","ADS-UB22-BLK-10",200,4.5
+"Nike Air Jordan 1","Shoes",170.00,"Classic basketball sneakers","Nike","NIK-AJ1-WHT-10",150,4.6
+"Levi's 501 Original Jeans","Clothing",59.99,"Classic straight-leg denim jeans","Levi's","LEV-501-BLUE-32",300,4.3
+"Patagonia Better Sweater","Clothing",99.99,"Fleece jacket made from recycled materials","Patagonia","PAT-BS-NAVY-M",80,4.7
+"The North Face Venture 2","Clothing",99.00,"Waterproof rain jacket for outdoor activities","The North Face","TNF-V2-BLK-L",60,4.4
+"Fitbit Charge 5","Electronics",149.95,"Advanced fitness tracker with GPS and health metrics","Fitbit","FIT-CHARGE5-BLK",90,4.2
